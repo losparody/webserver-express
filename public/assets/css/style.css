@@ -1,9 +1,9 @@
 footer {
-    background-color: cornflowerblue;
+    background-color: #353A3F;
     color: white;
     width: 100%;
     position: fixed;
-    botton: 0px;
+    bottom: 0px;
     text-align: center;
-    padding: 20px
+    padding: 20px;
 }
